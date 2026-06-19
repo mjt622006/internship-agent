@@ -1,1 +1,20 @@
+# Secrets — never commit
+.env
+google_credentials.json
+
+# Resume / personal files
+resume.pdf
+
+# Generated output
+cover_letters/
+discovered_internships.json
+agent_log.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
 .DS_Store
