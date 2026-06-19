@@ -1,0 +1,7 @@
+ollama
+gspread
+google-auth
+pdfplumber
+google-search-results
+flask
+python-dotenv
